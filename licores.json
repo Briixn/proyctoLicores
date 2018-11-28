@@ -1,0 +1,24 @@
+{
+  "licores": [
+    {
+      "nombre": "pilsener",
+      "tipo": "fermentado",
+      "grado": "4"
+    },
+    {
+      "nombre": "corona",
+      "tipo": "ron",
+      "grado": "5"
+    },
+    {
+      "nombre": "100 fuegos",
+      "tipo": "Ron",
+      "grado": "40"
+    },
+    {
+      "nombre": "pilsener",
+      "tipo": "Cerveza",
+      "grado": "4,5"
+    }
+  ]
+}
